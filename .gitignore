@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+**/bin/**
+**/target/**
+**/.classpath
+**/.settings
+**/.gitignore
+**/.project
+**/*.orig
+**/*.rej
